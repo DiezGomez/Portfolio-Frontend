@@ -1,2 +1,2 @@
-# Portfolio-Frontend
-INDUSTRIAS DIEZGOMEZ 
+Portfolio-Frontend
+
